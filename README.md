@@ -5,6 +5,8 @@ This is the basic Agentic bot which answers your query regarding the Store (Orde
 
 Agentic Store Assistant is a full-stack, state-of-the-art customer support assistant dashboard powered by a LangChain agent using the `gemini-2.5-flash` model. The assistant answers customer questions regarding orders, product details, and store policies (shipping, returns, and refunds) by dynamically selecting and chaining tools or retrieving contextual policy documents using RAG (Retrieval-Augmented Generation) from a local vector database. The application features a high-fidelity React frontend that displays real-time agent transparency (reasoning steps, tool execution arguments, and raw JSON outputs) alongside a conversation sidebar with active memory tracking.
 
+LIVE DEMO LINK :-https://agentic-store-assistant.web.app 
+
 ---
 
 ## System Architecture
