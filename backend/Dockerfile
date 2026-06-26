@@ -17,13 +17,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy application source code
 COPY . .
 
-# Run ingestion step to pre-build the FAISS index during the image build process
-# (Requires GOOGLE_API_KEY to be passed as a build argument: --build-arg GOOGLE_API_KEY=your_key)
-#ARG GOOGLE_API_KEY
-#RUN if [ -z "$GOOGLE_API_KEY" ]; then \
-#    echo "Error: GOOGLE_API_KEY build argument is required to build the FAISS index at build time." && exit 1; \
-#   fi && \
-#   GOOGLE_API_KEY=${GOOGLE_API_KEY} python -c "from app.rag.ingest import build_index; build_index()"
 
 # Expose port (metadata only; Cloud Run uses dynamic port binding)
 EXPOSE 8080
