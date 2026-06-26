@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased font-sans;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-slate-900;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-700 rounded-full hover:bg-slate-600 transition-colors;
+}
+
+/* Custom typography selection styles */
+::selection {
+  @apply bg-brand-500 bg-opacity-30 text-white;
+}
+
+/* Custom premium pulse/loading animation */
+@keyframes dot-pulse {
+  0%, 100% {
+    opacity: 0.3;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+}
+
+.dot-pulse-delay-1 {
+  animation: dot-pulse 1.4s infinite ease-in-out;
+  animation-delay: -0.32s;
+}
+
+.dot-pulse-delay-2 {
+  animation: dot-pulse 1.4s infinite ease-in-out;
+  animation-delay: -0.16s;
+}
+
+.dot-pulse-delay-3 {
+  animation: dot-pulse 1.4s infinite ease-in-out;
+}

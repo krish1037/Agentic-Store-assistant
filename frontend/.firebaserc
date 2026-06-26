@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "mythical-way-491518-v6"
+  },
+  "targets": {
+    "mythical-way-491518-v6": {
+      "hosting": {
+        "store": [
+          "agentic-store-assistant"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

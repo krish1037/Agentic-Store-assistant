@@ -1,0 +1,18 @@
+Store Policy: Shipping Information
+
+1. Shipping Timelines:
+- Standard Shipping: Orders are processed within 1-2 business days. Delivery takes 3 to 5 business days after shipment.
+- Express Shipping: Orders are processed within 1 business day. Delivery takes 1 to 2 business days after shipment.
+- International Shipping: Delivery times vary between 7 to 14 business days depending on the destination country and customs clearance processes.
+
+2. Shipping Costs:
+- Standard Shipping: Free for all orders over $50.00. Otherwise, a flat rate of $4.99 applies.
+- Express Shipping: Flat rate of $14.99 for all orders.
+- International Shipping: Calculated at checkout based on weight and destination.
+
+3. Shipping Carriers:
+We primarily partner with FedEx, UPS, and DHL to ensure secure and timely deliveries.
+
+4. Order Tracking:
+Once your order ships, we will email you a tracking link. You can track your shipment live by clicking the link or entering the tracking ID on the carrier website.
+Please contact support if your package does not arrive within the expected timeframe.

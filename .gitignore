@@ -1,0 +1,47 @@
+# Python virtual environments & caching
+backend/venv/
+backend/.venv/
+backend/env/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+backend/.pytest_cache/
+
+# Environment files (containing secrets/credentials)
+.env
+.env.*
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+!*.env.example
+
+# Node / Frontend dependencies & builds
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+frontend/dist-ssr/
+.firebase/
+frontend/.firebase/
+
+# Data & indexes
+backend/app/data/faiss_index/
+app/data/faiss_index/
+
+# System / Editor files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+logs/

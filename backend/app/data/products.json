@@ -1,0 +1,182 @@
+[
+  {
+    "product_id": "P101",
+    "name": "Stride Lite Running Shoes",
+    "category": "shoes",
+    "price": 80.00,
+    "description": "Lightweight and breathable running shoes with high-performance cushioning, perfect for daily training and long distances.",
+    "in_stock": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P102",
+    "name": "AeroStep Training Shoes",
+    "category": "shoes",
+    "price": 45.00,
+    "description": "Affordable cross-training athletic shoes offering stability, comfort, and flexibility for gym workouts and casual wear.",
+    "in_stock": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "P103",
+    "name": "Summit Edge Hiking Boots",
+    "category": "shoes",
+    "price": 120.00,
+    "description": "Premium waterproof hiking boots designed for rugged terrains with superior grip and durable ankle support.",
+    "in_stock": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P104",
+    "name": "NovaSound Wireless Headphones",
+    "category": "electronics",
+    "price": 129.99,
+    "description": "Over-ear active noise cancelling headphones with rich audio performance and up to 40 hours of battery life.",
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P105",
+    "name": "VividFit Smart Watch",
+    "category": "electronics",
+    "price": 89.99,
+    "description": "Feature-packed fitness tracker and smartwatch with heart rate monitoring, GPS, and notifications.",
+    "in_stock": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P106",
+    "name": "TechPro Wireless Mouse",
+    "category": "electronics",
+    "price": 29.99,
+    "description": "Ergonomic 2.4GHz wireless mouse with adjustable DPI and silent clicks for home and office use.",
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P107",
+    "name": "UltraFit Gym Water Bottle",
+    "category": "accessories",
+    "price": 25.00,
+    "description": "Double-walled vacuum insulated stainless steel water bottle, keeps drinks ice cold for 24 hours.",
+    "in_stock": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P108",
+    "name": "Classic Cotton Tee",
+    "category": "apparel",
+    "price": 25.00,
+    "description": "Comfy, 100% organic cotton basic t-shirt in a classic fit, breathable and suitable for daily wear.",
+    "in_stock": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P109",
+    "name": "All-Weather Windbreaker",
+    "category": "apparel",
+    "price": 75.00,
+    "description": "Water-resistant, lightweight windbreaker jacket with adjustable hood and zippered pockets.",
+    "in_stock": false,
+    "rating": 4.1
+  },
+  {
+    "product_id": "P110",
+    "name": "Leather Minimalist Wallet",
+    "category": "accessories",
+    "price": 34.99,
+    "description": "Slim, RFID-blocking full-grain leather wallet with space for 8 cards and a cash pocket.",
+    "in_stock": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P111",
+    "name": "AeroStep Comfort Insoles",
+    "category": "shoes",
+    "price": 15.00,
+    "description": "Ergonomic gel insoles designed for maximum arch support and shock absorption during workouts.",
+    "in_stock": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P112",
+    "name": "NovaSound True Wireless Earbuds",
+    "category": "electronics",
+    "price": 59.99,
+    "description": "Compact, water-resistant bluetooth earbuds with touch controls and up to 24 hours of playtime with case.",
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P113",
+    "name": "ActiveStretch Gym Shorts",
+    "category": "apparel",
+    "price": 30.00,
+    "description": "Moisture-wicking, flexible athletic shorts with zipper pockets, perfect for cardio and weightlifting.",
+    "in_stock": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P114",
+    "name": "ThermaShield Travel Mug",
+    "category": "accessories",
+    "price": 35.00,
+    "description": "Insulated travel mug with a leak-proof lid, keeps your coffee hot for up to 12 hours.",
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P115",
+    "name": "UrbanTransit Backpack",
+    "category": "accessories",
+    "price": 65.00,
+    "description": "Durable water-resistant commuter backpack with a padded laptop compartment and multiple organizer pockets.",
+    "in_stock": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P116",
+    "name": "HyperFocus Mechanical Keyboard",
+    "category": "electronics",
+    "price": 99.99,
+    "description": "Tenkeyless mechanical gaming keyboard with customizable RGB backlighting and tactile red switches.",
+    "in_stock": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P117",
+    "name": "ApexFit Yoga Mat",
+    "category": "accessories",
+    "price": 40.00,
+    "description": "Non-slip eco-friendly yoga mat with alignment lines, extra thick cushioning for joint protection.",
+    "in_stock": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P118",
+    "name": "BreezeTech Running Tee",
+    "category": "apparel",
+    "price": 28.00,
+    "description": "Ultra-lightweight and highly breathable running shirt with reflective details for night visibility.",
+    "in_stock": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P119",
+    "name": "TrailBlaze Hydration Pack",
+    "category": "accessories",
+    "price": 55.00,
+    "description": "Lightweight hydration backpack containing a 2-liter BPA-free water bladder, ideal for day hikes.",
+    "in_stock": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P120",
+    "name": "ComfortStride Socks (3-Pack)",
+    "category": "apparel",
+    "price": 12.50,
+    "description": "Cushioned athletic socks with arch compression and seamless toe construction to prevent blisters.",
+    "in_stock": true,
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_name": "Alice Smith",
+    "items": [
+      {
+        "product_id": "P104",
+        "name": "NovaSound Wireless Headphones",
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-10",
+    "expected_delivery_date": "2026-06-14",
+    "total_amount": 129.99
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_name": "Bob Jones",
+    "items": [
+      {
+        "product_id": "P101",
+        "name": "Stride Lite Running Shoes",
+        "quantity": 1
+      },
+      {
+        "product_id": "P108",
+        "name": "Classic Cotton Tee",
+        "quantity": 2
+      }
+    ],
+    "status": "shipped",
+    "order_date": "2026-06-22",
+    "expected_delivery_date": "2026-06-26",
+    "total_amount": 130.00
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_name": "Charlie Brown",
+    "items": [
+      {
+        "product_id": "P105",
+        "name": "VividFit Smart Watch",
+        "quantity": 1
+      }
+    ],
+    "status": "processing",
+    "order_date": "2026-06-24",
+    "expected_delivery_date": "2026-06-28",
+    "total_amount": 89.99
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_name": "Diana Prince",
+    "items": [
+      {
+        "product_id": "P102",
+        "name": "AeroStep Training Shoes",
+        "quantity": 1
+      },
+      {
+        "product_id": "P110",
+        "name": "Leather Minimalist Wallet",
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-15",
+    "expected_delivery_date": "2026-06-18",
+    "total_amount": 79.99
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_name": "Ethan Hunt",
+    "items": [
+      {
+        "product_id": "P106",
+        "name": "TechPro Wireless Mouse",
+        "quantity": 2
+      }
+    ],
+    "status": "cancelled",
+    "order_date": "2026-06-01",
+    "expected_delivery_date": "2026-06-04",
+    "total_amount": 59.98
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_name": "Fiona Gallagher",
+    "items": [
+      {
+        "product_id": "P103",
+        "name": "Summit Edge Hiking Boots",
+        "quantity": 1
+      },
+      {
+        "product_id": "P107",
+        "name": "UltraFit Gym Water Bottle",
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-18",
+    "expected_delivery_date": "2026-06-21",
+    "total_amount": 145.00
+  },
+  {
+    "order_id": "ORD-1007",
+    "customer_name": "George Clark",
+    "items": [
+      {
+        "product_id": "P112",
+        "name": "NovaSound True Wireless Earbuds",
+        "quantity": 1
+      },
+      {
+        "product_id": "P113",
+        "name": "ActiveStretch Gym Shorts",
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-12",
+    "expected_delivery_date": "2026-06-16",
+    "total_amount": 89.99
+  },
+  {
+    "order_id": "ORD-1008",
+    "customer_name": "Hannah Abbott",
+    "items": [
+      {
+        "product_id": "P115",
+        "name": "UrbanTransit Backpack",
+        "quantity": 1
+      },
+      {
+        "product_id": "P114",
+        "name": "ThermaShield Travel Mug",
+        "quantity": 1
+      }
+    ],
+    "status": "shipped",
+    "order_date": "2026-06-23",
+    "expected_delivery_date": "2026-06-27",
+    "total_amount": 100.00
+  },
+  {
+    "order_id": "ORD-1009",
+    "customer_name": "Ian Malcolm",
+    "items": [
+      {
+        "product_id": "P116",
+        "name": "HyperFocus Mechanical Keyboard",
+        "quantity": 1
+      }
+    ],
+    "status": "processing",
+    "order_date": "2026-06-25",
+    "expected_delivery_date": "2026-06-29",
+    "total_amount": 99.99
+  },
+  {
+    "order_id": "ORD-1010",
+    "customer_name": "Julia Roberts",
+    "items": [
+      {
+        "product_id": "P117",
+        "name": "ApexFit Yoga Mat",
+        "quantity": 1
+      },
+      {
+        "product_id": "P107",
+        "name": "UltraFit Gym Water Bottle",
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-14",
+    "expected_delivery_date": "2026-06-17",
+    "total_amount": 65.00
+  },
+  {
+    "order_id": "ORD-1011",
+    "customer_name": "Kevin Bacon",
+    "items": [
+      {
+        "product_id": "P101",
+        "name": "Stride Lite Running Shoes",
+        "quantity": 1
+      },
+      {
+        "product_id": "P120",
+        "name": "ComfortStride Socks (3-Pack)",
+        "quantity": 2
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-08",
+    "expected_delivery_date": "2026-06-12",
+    "total_amount": 105.00
+  },
+  {
+    "order_id": "ORD-1012",
+    "customer_name": "Laura Croft",
+    "items": [
+      {
+        "product_id": "P103",
+        "name": "Summit Edge Hiking Boots",
+        "quantity": 1
+      },
+      {
+        "product_id": "P119",
+        "name": "TrailBlaze Hydration Pack",
+        "quantity": 1
+      }
+    ],
+    "status": "shipped",
+    "order_date": "2026-06-24",
+    "expected_delivery_date": "2026-06-28",
+    "total_amount": 175.00
+  },
+  {
+    "order_id": "ORD-1013",
+    "customer_name": "Michael Scott",
+    "items": [
+      {
+        "product_id": "P108",
+        "name": "Classic Cotton Tee",
+        "quantity": 5
+      }
+    ],
+    "status": "processing",
+    "order_date": "2026-06-25",
+    "expected_delivery_date": "2026-06-29",
+    "total_amount": 125.00
+  },
+  {
+    "order_id": "ORD-1014",
+    "customer_name": "Nancy Wheeler",
+    "items": [
+      {
+        "product_id": "P118",
+        "name": "BreezeTech Running Tee",
+        "quantity": 2
+      },
+      {
+        "product_id": "P111",
+        "name": "AeroStep Comfort Insoles",
+        "quantity": 1
+      }
+    ],
+    "status": "delivered",
+    "order_date": "2026-06-11",
+    "expected_delivery_date": "2026-06-15",
+    "total_amount": 71.00
+  },
+  {
+    "order_id": "ORD-1015",
+    "customer_name": "Oliver Twist",
+    "items": [
+      {
+        "product_id": "P110",
+        "name": "Leather Minimalist Wallet",
+        "quantity": 1
+      }
+    ],
+    "status": "cancelled",
+    "order_date": "2026-05-28",
+    "expected_delivery_date": "2026-06-01",
+    "total_amount": 34.99
+  }
+]
